@@ -56,6 +56,7 @@ venv.bak/
 
 # Scratchpad
 scratchpad/
+maintenance/
 
 # Logs and databases
 *.log
