@@ -12,7 +12,6 @@ These guides are living documents that will be continuously updated and refined 
 
 ## Updated Guides
 
-
 [Using Multiple Apple Macs as if They Were a Single Mac - GPU Context Switching Bug Workaround](guides/202412/20241217-using-multiple-apple-macs-as-if-they-were-a-single-mac-gpu-context-switching-bug-workaround.md)
 
 [Understanding AI Performance: A Guide to Cross-Entropy, Perplexity, BPC, and BPB without Math](guides/202412/20241215-cross-entropy-perplexity-bpc-and-bpb-without-math.md)
@@ -27,6 +26,20 @@ These guides are living documents that will be continuously updated and refined 
 [Little Dummy Guide to Home Networking](guides/202412/20241211-home-networking-dummy-guide.md)
 
 </details>
+
+
+## C.W.K. Resources
+
+🔗 Main Resources:
+- Deep Dive into Deep Learning and AI Math: https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch/
+- New Essays Collection: https://github.com/neobundy/cwkEssays
+- Archived Essays: https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch/tree/master/essays
+- Technical Guides: https://github.com/neobundy/cwkGuides
+- Social Media: https://x.com/WankyuChoi
+
+🌐 Quick Access Domains:
+- https://cwkai.net - AI & Deep Learning Resources
+- https://creativeworksofknowledge.net - Essay Collection
 
 ## Contributing
 
