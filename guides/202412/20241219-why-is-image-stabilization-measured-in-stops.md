@@ -7,6 +7,8 @@ I'm thinking about upgrading one of my cameras—the King of mirrorless, the Son
 
 The Mark II offers a much more flexible LCD screen that can tilt, swivel, and twist in almost any direction. Then there's the 8.5 stops of built-in image stabilization, a significant jump from the 5.5 stops in the Mark I. If you're not a professional photographer or videographer, the Mark I itself might already be more than enough. Frankly, even for many pros, the Mark II could be overkill. 
 
+![Sony A1 Mark II](images/20241219/05.png)
+
 But I'm one of those nerds who loves getting hands-on with every new gadget. So, naturally, here I am, dissecting what "8.5 stops of image stabilization" really means. Let’s break it down.
 
 ---
