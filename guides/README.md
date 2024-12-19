@@ -2,6 +2,8 @@
 
 ## 2024-12
 
+[Why Is Image Stabilization Measured in "Stops"?](202412/20241219-why-is-image-stabilization-measured-in-stops.md)
+
 [Using Multiple Apple Macs as if They Were a Single Mac - GPU Context Switching Bug Workaround](202412/20241217-using-multiple-apple-macs-as-if-they-were-a-single-mac-gpu-context-switching-bug-workaround.md)
 
 [Understanding AI Performance: A Guide to Cross-Entropy, Perplexity, BPC, and BPB without Math](202412/20241215-cross-entropy-perplexity-bpc-and-bpb-without-math.md)

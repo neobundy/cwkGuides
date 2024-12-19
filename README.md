@@ -12,14 +12,16 @@ These guides are living documents that will be continuously updated and refined 
 
 ## Updated Guides
 
+[Why Is Image Stabilization Measured in "Stops"?](guides/202412/20241219-why-is-image-stabilization-measured-in-stops.md)
+
 [Using Multiple Apple Macs as if They Were a Single Mac - GPU Context Switching Bug Workaround](guides/202412/20241217-using-multiple-apple-macs-as-if-they-were-a-single-mac-gpu-context-switching-bug-workaround.md)
+
+<details>
+<summary> Recent Additions </summary>
 
 [Understanding AI Performance: A Guide to Cross-Entropy, Perplexity, BPC, and BPB without Math](guides/202412/20241215-cross-entropy-perplexity-bpc-and-bpb-without-math.md)
 
 [Running an AI Cluster on Multiple Apple Silicon Macs](guides/202412/20241213-running-an-ai-cluster-on-multiple-apple-silicon-macs.md)
-
-<details>
-<summary> Recent Additions </summary>
 
 [Running your own AI server on Apple Silicon](guides/202412/20241211-running-your-own-ai-server-on-apple-silicon-a-comprehensive-guide.md)
 
