@@ -59,7 +59,7 @@ Stabilization interacts primarily with shutter speed. The better your stabilizat
 
 ## Practical Effects and Artistic Controls  
 
-[Bokeh](20241219-why-is-image-stabilization-measured-in-stops.md)
+![Bokeh](images/20241219/03.png)
 
 Why not just shoot in auto mode and let the camera figure this out? While auto works for many situations, manual control is crucial for achieving specific effects:  
 
