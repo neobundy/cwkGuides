@@ -2,6 +2,8 @@
 
 ## 2024-12
 
+[Path of Exile 2 - How to Trade on PlayStation](202412/20241219-path-of-exile-2-how-to-trade-on-playstation.md)
+
 [Why Is Image Stabilization Measured in "Stops"?](202412/20241219-why-is-image-stabilization-measured-in-stops.md)
 
 [Using Multiple Apple Macs as if They Were a Single Mac - GPU Context Switching Bug Workaround](202412/20241217-using-multiple-apple-macs-as-if-they-were-a-single-mac-gpu-context-switching-bug-workaround.md)
