@@ -1,4 +1,4 @@
-## Why Is Image Stabilization Measured in "Stops"?  
+# Why Is Image Stabilization Measured in "Stops"?  
 **Sony Alpha 1 Mark II: 8.5 Stops Built-In IS**
 
 ![Cover](images/20241219/00.png)
