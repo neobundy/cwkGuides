@@ -1,6 +1,8 @@
 ## Why Is Image Stabilization Measured in "Stops"?  
 **Sony Alpha 1 Mark II: 8.5 Stops Built-In IS**
 
+![Cover](images/20241219/00.png)
+
 I'm thinking about upgrading one of my cameras—the King of mirrorless, the Sony Alpha 1, from Mark I to Mark II. But is the Mark II worth the upgrade? It depends on how much you value some of its new features over the Mark I.
 
 The Mark II offers a much more flexible LCD screen that can tilt, swivel, and twist in almost any direction. Then there's the 8.5 stops of built-in image stabilization, a significant jump from the 5.5 stops in the Mark I. If you're not a professional photographer or videographer, the Mark I itself might already be more than enough. Frankly, even for many pros, the Mark II could be overkill. 
@@ -42,6 +44,8 @@ High-end cameras, like the Sony Alpha 1 series, allow fine-tuned shutter speed a
 ## Why Image Stabilization Stops Matter  
 
 Imagine shooting outdoors on a bright sunny day. You’ll have plenty of light to use fast shutter speeds, so stabilization won’t be much of a concern. But as the sun sets, you need to use slower shutter speeds to let in more light. Slower shutter speeds, however, increase the risk of motion blur from camera shake. This is where stabilization shines—it lets you compensate for the slower shutter speed without sacrificing sharpness.  
+
+![Exposure Triangle](images/20241219/04.png)
 
 It all boils down to managing the **exposure triangle**:  
 
