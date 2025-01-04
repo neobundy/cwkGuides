@@ -1,0 +1,11 @@
+# Self-Attention vs. Attention Mechanisms in Natural Language Processing
+
+![image](images/017-1.png)
+
+Self-attention focuses on the relationships between different words or tokens within a single sequence, determining which parts of the sequence should be given more weight relative to others. This approach is pivotal in understanding contextual meaning since it allows a model to assess how each word is influenced by every other word in the same sequence. For instance, in a sentence, self-attention helps the model figure out which words are most relevant to each other, improving the comprehension of context and nuances.
+
+On the other hand, attention mechanisms, in general, operate between two different sequences, often an input and an output. This type of attention guides the network to focus on specific parts of the input sequence when producing each part of the output sequence. This mechanism is particularly crucial in tasks like machine translation, where it's important for the model to determine which words or phrases in the source language correspond most closely to the words being generated in the target language. By dynamically adjusting focus based on the content, attention mechanisms help ensure that the output is both contextually and semantically accurate.
+
+Overall, while self-attention is about internal relationships within a sequence, general attention mechanisms enable interactions between different sequences, both playing essential roles in natural language processing tasks.
+
+Recurrent Neural Networks (RNNs) and Transformers are two prominent architectures that leverage these attention mechanisms differently. RNNs process sequences by maintaining a hidden state that captures information from previous steps, making them effective for tasks involving sequential data. However, RNNs struggle with long-range dependencies due to their sequential nature and limited memory capacity. Transformers, on the other hand, utilize self-attention to capture dependencies across an entire sequence without the need for sequential processing. This makes Transformers significantly more efficient at handling long-range relationships, and has led to their dominance over RNNs in many NLP tasks.
