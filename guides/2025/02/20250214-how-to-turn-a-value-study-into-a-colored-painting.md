@@ -365,6 +365,31 @@ Final Stack (top to bottom):
 
 ---
 
+## Fintuning with Additional Brushwork
+
+You can go as far as you want with additional refinement.
+
+![Finetuned](images/20250214-01-finetuned.png)
+> Finetuned
+
+## Having Fun with Adjustment Layers
+
+Adjustment layers, particularly color lookup tables (LUTs), offer powerful ways to transform your artwork's mood and atmosphere. Below are some examples demonstrating how different LUTs can dramatically alter the feel of the same base image. Each preset creates a distinct emotional response while maintaining the underlying value structure.
+
+These presets serve as starting points - you can further customize them by adjusting opacity, blend modes, and combining multiple lookup tables to achieve your desired effect.
+
+![Crisp Warm](images/20250214-01-crisp-warm.png)
+> Crisp Warm
+
+![Edge Amber](images/20250214-01-edge-amber.png)
+> Edge Amber
+
+![Foggy Night](images/20250214-01-foggy-night.png)
+> Foggy Night
+
+![Late Sunset](images/20250214-01-late-sunset.png)
+> Late Sunset
+
 # Wrap-Up
 
 This value-to-color method is perfect for exploring new color schemes or quickly solidifying an initial concept. If you need more intricate color control, consider a fully painted approach (like the C.W.K. Workflow). But when speed and solid structure matter, this workflow can be a powerful tool in your arsenal.
