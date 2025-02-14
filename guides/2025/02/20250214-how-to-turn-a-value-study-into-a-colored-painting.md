@@ -4,6 +4,8 @@ Two common methods exist for coloring your work: a traditional, step-by-step app
 
 I use the term "traditional" to refer to an approach that relies less on Photoshop features and more on manual painting. The second method heavily relies on Photoshop's tools and is much faster. And don't get the wrong idea that the "C.W.K. workflow" is a new method I invented. It's just my customized version of the traditional method, and I refer to it that way for convenience.
 
+Some might call the second method "glazing", though it differs from traditional glazing techniques in that it relies heavily on Photoshop's blending modes and adjustment layers.
+
 ## Workflow Comparison
 
 | Aspect                    | C.W.K. Workflow            | Value Study Conversion       |
