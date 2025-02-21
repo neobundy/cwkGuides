@@ -24,6 +24,8 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 ## Updated Guides
 
+[How Many "R"s in "Strawberry"? - Why Some LLMs Struggle with This "Simple" Task](guides/2025/02/20250221-how-many-rs-in-strawberry-why-some-llms-struggle-with-this.md)
+
 [How to Turn a Value Study into a Colored Painting](guides/2025/02/20250214-how-to-turn-a-value-study-into-a-colored-painting.md)
 
 [Drawing with AI Finale - C.W.K. Workflow](guides/2025/02/20250212-drawing-with-ai-finale-c-w-k-workflow.md)

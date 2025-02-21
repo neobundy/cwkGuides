@@ -2,6 +2,8 @@
 
 ## 2025-02
 
+[How Many "R"s in "Strawberry"? - Why Some LLMs Struggle with This "Simple" Task](2025/02/20250221-how-many-rs-in-strawberry-why-some-llms-struggle-with-this.md)
+
 [How to Turn a Value Study into a Colored Painting](2025/02/20250214-how-to-turn-a-value-study-into-a-colored-painting.md)
 
 [Drawing with AI Finale - C.W.K. Workflow](2025/02/20250212-drawing-with-ai-finale-c-w-k-workflow.md)
