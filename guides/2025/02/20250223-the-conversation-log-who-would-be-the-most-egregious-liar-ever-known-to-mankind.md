@@ -1,4 +1,4 @@
-# The Conversation Log: Who Would Be the Most Egregious Liar Ever Known to Mankind?
+# The Grokking the Universe Trilogy Part II: Who Would Be the Most Egregious Liar Ever Known to Mankind?
 
 ![The Lie We Can't Bury](images/20250223-02.png)
 

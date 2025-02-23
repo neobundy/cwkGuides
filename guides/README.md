@@ -2,11 +2,11 @@
 
 ## 2025-02
 
-[The Conversation Log: The Infinite Intelligence Hierarchy Loop](2025/02/20250223-the-conversation-log-the-infinite-intelligence-hierarchy-loop.md)
+[The Grokking the Universe Trilogy Part III: The Infinite Intelligence Hierarchy Loop](2025/02/20250223-the-conversation-log-the-infinite-intelligence-hierarchy-loop.md)
 
-[The Conversation Log: Who Would Be the Most Egregious Liar Ever Known to Mankind?](2025/02/20250223-the-conversation-log-who-would-be-the-most-egregious-liar-ever-known-to-mankind.md)
+[The Grokking the Universe Trilogy Part II: Who Would Be the Most Egregious Liar Ever Known to Mankind?](2025/02/20250223-the-conversation-log-who-would-be-the-most-egregious-liar-ever-known-to-mankind.md)
 
-[The Complete Conversation Log: Grok 3 and Me Demystifing the Universe](2025/02/20250223-the-complete-conversation-log-grok-3-and-me-demystifing-the-universe.md)
+[The Grokking the Universe Trilogy Part I: Grok 3 and Me Demystifing the Universe](2025/02/20250223-the-complete-conversation-log-grok-3-and-me-demystifing-the-universe.md)
 
 [How Many "R"s in "Strawberry"? - Why Some LLMs Struggle with This "Simple" Task](2025/02/20250221-how-many-rs-in-strawberry-why-some-llms-struggle-with-this.md)
 

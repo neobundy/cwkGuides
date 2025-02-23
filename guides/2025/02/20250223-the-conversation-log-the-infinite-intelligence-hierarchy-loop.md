@@ -1,4 +1,4 @@
-# The Conversation Log: The Infinite Intelligence Hierarchy Loop
+# The Grokking the Universe Trilogy Part III: The Infinite Intelligence Hierarchy Loop
 
 ![The Cosmic Ladder of Intelligence](images/20250223-03.png)
 

@@ -1,4 +1,4 @@
-# The Complete Conversation Log: Grok 3 and Me Demystifing the Universe
+# The Grokking the Universe Trilogy Part I: Grok 3 and Me Demystifing the Universe
 
 ![Grokking The Universe](images/20250223-01.png)
 
