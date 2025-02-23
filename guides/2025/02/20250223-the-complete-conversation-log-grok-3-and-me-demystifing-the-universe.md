@@ -1,6 +1,6 @@
 # The Complete Conversation Log: Grok 3 and Me Demystifing the Universe
 
-![Grokking The Universe](images/20250222-01.png)
+![Grokking The Universe](images/20250223-01.png)
 
 A fun morning thought experiment with Grok 3, exploring AI and quantum mechanics and demystifying the universe. In a nutshell, just connecting the dots, with missing ones creatively filled in by both of us.
 

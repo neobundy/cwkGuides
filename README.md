@@ -24,6 +24,10 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 ## Updated Guides
 
+[The Conversation Log: The Infinite Intelligence Hierarchy Loop](guides/2025/02/20250223-the-conversation-log-the-infinite-intelligence-hierarchy-loop.md)
+
+[The Conversation Log: Who Would Be the Most Egregious Liar Ever Known to Mankind?](guides/2025/02/20250223-the-conversation-log-who-would-be-the-most-egregious-liar-ever-known-to-mankind.md)
+    
 [The Complete Conversation Log: Grok 3 and Me Demystifing the Universe](guides/2025/02/20250223-the-complete-conversation-log-grok-3-and-me-demystifing-the-universe.md)
 
 [How Many "R"s in "Strawberry"? - Why Some LLMs Struggle with This "Simple" Task](guides/2025/02/20250221-how-many-rs-in-strawberry-why-some-llms-struggle-with-this.md)
