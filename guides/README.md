@@ -2,6 +2,7 @@
 
 ## 2025-02
 
+[The Complete Conversation Log: Grok 3 and Me Demystifing the Universe](2025/02/20250223-the-complete-conversation-log-grok-3-and-me-demystifing-the-universe.md)
 [How Many "R"s in "Strawberry"? - Why Some LLMs Struggle with This "Simple" Task](2025/02/20250221-how-many-rs-in-strawberry-why-some-llms-struggle-with-this.md)
 
 [How to Turn a Value Study into a Colored Painting](2025/02/20250214-how-to-turn-a-value-study-into-a-colored-painting.md)
