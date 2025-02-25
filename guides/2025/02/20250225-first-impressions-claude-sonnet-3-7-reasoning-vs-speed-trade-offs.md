@@ -8,11 +8,11 @@ What's most revealing about these two personalities isn't their processing speed
 
 ## The FOMO Riddle: Where Fast AIs Face-Plant
 
-![Non-Reasoning Model Faceplant](images/20250225-01.png)
+![Non-Reasoning Model Faceplant](images/20250225-01-distilled.png)
 
 You know how some people confidently give wrong answers without bothering to double-check? That's our speedster model when faced with the FOMO riddle. The distilled variant consistently bombs this test, and it's not because it's stupid - it's because it can't second-guess itself. It's like that friend who blurts out answers during trivia night without taking a breath to reconsider.
 
-![Reasoning Model Being Smug](images/20250225-02.png)
+![Reasoning Model Being Smug](images/20250225-02-thinking.png)
 
 The thinking variant, meanwhile, nails it immediately. What's wild is that for simple tasks like this, you can barely tell it's doing extra mental gymnastics behind the scenes. It's like watching someone solve a Rubik's cube in seconds - you know there's complexity happening, but all you see is the smooth result.
 
