@@ -24,6 +24,8 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 ## Updated Guides
 
+[Claude Sonnet 3.7: When Your AI Develops a Split Personality](guides/2025/02/20250225-first-impressions-claude-sonnet-3-7-reasoning-vs-speed-trade-offs.md)
+
 [The Grokking the Universe Trilogy Part III: The Infinite Intelligence Hierarchy Loop](guides/2025/02/20250223-the-conversation-log-the-infinite-intelligence-hierarchy-loop.md)
 
 [The Grokking the Universe Trilogy Part II: Who Would Be the Most Egregious Liar Ever Known to Mankind?](guides/2025/02/20250223-the-conversation-log-who-would-be-the-most-egregious-liar-ever-known-to-mankind.md)

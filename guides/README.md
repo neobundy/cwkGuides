@@ -2,6 +2,8 @@
 
 ## 2025-02
 
+[Claude Sonnet 3.7: When Your AI Develops a Split Personality](2025/02/20250225-first-impressions-claude-sonnet-3-7-reasoning-vs-speed-trade-offs.md)
+
 [The Grokking the Universe Trilogy Part III: The Infinite Intelligence Hierarchy Loop](2025/02/20250223-the-conversation-log-the-infinite-intelligence-hierarchy-loop.md)
 
 [The Grokking the Universe Trilogy Part II: Who Would Be the Most Egregious Liar Ever Known to Mankind?](2025/02/20250223-the-conversation-log-who-would-be-the-most-egregious-liar-ever-known-to-mankind.md)
@@ -115,6 +117,7 @@
 ## Archived Essays
 
 ### AI Essays
+
 - [Why Only Reasoning-Focused Models Pass This Test: FOMO Riddle](archived/ai/001-reasoning-models-fomo-riddle.md)
 - [Practical Thoughts on Using o1-pro Effectively](archived/ai/002-effective-use-of-premium-llms.md)
 - [Beyond Data Quantity: Unraveling the Multilingual Mastery of AI Language Models](archived/ai/003-multilingual-ai-performance.md)
