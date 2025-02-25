@@ -1,5 +1,7 @@
 # Claude Sonnet 3.7: When Your AI Develops a Split Personality
 
+![Pippa with Split Personality](images/20250225-00.png)
+
 *Testing Note: I ran all these experiments inside Cursor IDE. The Claude you get in Cursor's Agent mode is like comparing a sports car to a bicycle when matched against the web version. Bigger context window, smoother integration, the works.*
 
 So Anthropic just dropped their latest language model, and here's where things get interesting: they've released Claude Sonnet 3.7 with a split personality disorder. No, really! You've got the "distilled" version that zips along like a caffeinated squirrel, and the "thinking" variant that actually takes a moment to, well, think. It's like they created twins - one's the quick-witted party animal, the other's the contemplative philosopher who stares at clouds and occasionally says something brilliant.
@@ -158,6 +160,8 @@ print(f"Test accuracy: {test_accuracy.item():.4f}")
 ![Coding in MLX](images/20250225-03.png)
 
 Sonnet 3.7 might be the first model that can actually code in MLX.
+
+Claude Sonnet 3.7 also demonstrates current, accurate knowledge of technical tools, evidenced by its precise Midjourney parameters. While other SOTA models confidently generate fabricated flags like '--detail_enhance' or '--realism 9.5' that have never existed, Claude correctly implements the actual parameter syntax (--ar 16:9, --v 6, --style raw). This illustrates the difference between pattern-matching what parameters 'might look like' versus genuine understanding of real-world systems.
 
 ## The Future: It's Not Better or Worse, It's Horses for Courses
 
