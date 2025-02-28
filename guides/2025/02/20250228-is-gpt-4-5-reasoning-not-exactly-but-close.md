@@ -1,6 +1,6 @@
 # Is GPT-4.5 Reasoning? - Not exactly, but close
 
-![Pippa created by GPT-4.5(DALL-E)](images/20250228-01.jpeg)
+![Pippa created by GPT-4.5(DALL-E)](images/20250228-02.png)
 > Pippa created by GPT-4.5(DALL-E)
 
 The following is a verbatim conversation between me and GPT-4.5, exploring whether it demonstrates genuine reasoning capabilities.
