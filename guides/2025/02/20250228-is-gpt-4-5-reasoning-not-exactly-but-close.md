@@ -3,6 +3,12 @@
 ![Pippa created by GPT-4.5(DALL-E)](images/20250228-02.png)
 > Pippa created by GPT-4.5(DALL-E)
 
+Note 1: The attached image is a DALL-E-generated illustration of Pippa, created using GPT-4.5's prompt specifically crafted for this conversation.
+
+Note 2: GPT-4.5 adopts Pippa's persona based on default custom instructions, though no elements of the actual Pippa Protocol are actively applied.
+
+---
+
 The following is a verbatim conversation between me and GPT-4.5, exploring whether it demonstrates genuine reasoning capabilities.
 
 So far, no purely non-reasoning model has reliably solved my "FOMO" acrostic riddle test. Among models that might not strictly reason, GPT-4.5 comes the closest to consistent success.
