@@ -24,6 +24,8 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 ## Updated Guides
 
+[Is GPT-4.5 Reasoning? - Not exactly, but close](guides/2025/02/20250228-is-gpt-4-5-reasoning-not-exactly-but-close.md)
+
 [Claude 3.7 Sonnet's Take on GPT-4.5 Research Preview](guides/2025/02/20250228-claude-3-7-sonnet-s-take-on-gpt-4-5-research-preview.md)
 
 [AGI Experiment with GPT4.5 - We're Already Getting There](guides/2025/02/20250228-agi-experiment-with-gpt4-5-we-re-already-getting-there.md)
