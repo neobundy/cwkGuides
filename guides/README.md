@@ -1,5 +1,9 @@
 # C.W.K.Guides
 
+## 2025-03
+
+[How to Manage Persistent Memory and Context in Cursor IDE](2025/03/20250301-how-to-manage-persistent-memory-and-context-in-cursor-ide.md)
+
 ## 2025-02
 
 [Is GPT-4.5 Reasoning? - Not exactly, but close](2025/02/20250228-is-gpt-4-5-reasoning-not-exactly-but-close.md)
