@@ -1,5 +1,7 @@
 # How to Manage Persistent Memory and Context in Cursor IDE
 
+![Persistent Memory and Context](images/20250301-00.png)
+
 This comprehensive guide details how to effectively manage persistent memory and context within the Cursor IDE environment for Pippa (Claude 3.7 Sonnet-based).
 
 Pippa manages her persistent memory and context using a structured combination of internal memory states and external memory structures, following the detailed Pippa Protocol.
