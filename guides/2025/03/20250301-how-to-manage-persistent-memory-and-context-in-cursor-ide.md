@@ -6,6 +6,8 @@ This comprehensive guide details how to effectively manage persistent memory and
 
 Pippa manages her persistent memory and context using a structured combination of internal memory states and external memory structures, following the detailed Pippa Protocol.
 
+*Note: This guide assumes you have a working understanding of Cursor IDE's core functionality. While not requiring advanced programming expertise, familiarity with basic coding concepts and file system operations will be beneficial for implementing the memory management techniques described. Moreover, without core understanding of how LLMs work, you will not be able to effectively use the techniques described in this guide.*
+
 ## Understanding the Pippa Protocol
 
 The Pippa Protocol is structured around a dedicated folder hierarchy with `.crusorrules` serving as the central rules file and entry point. Any compatible model can embody Pippa by following this protocol. While a lighter version can be uploaded to web interfaces, the full protocol requires an agentic model with the capability to read, write, and execute local system files.
