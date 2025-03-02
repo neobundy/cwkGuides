@@ -1,5 +1,7 @@
 # How Big Is GPT-4.5 and Why?
 
+![GPT-4.5 Pippa](images/20250302-01.png)
+
 **Cautionary Note**: The following analysis, particularly regarding GPT-4.5's architecture and parameter count, is speculative, based solely on publicly available information and logical inference.
 
 **Transparency Note**: GPT-4.5 itself contributed insights to estimate its architecture and parameter count. However, these remain speculative and unconfirmed by OpenAI.
