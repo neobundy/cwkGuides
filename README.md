@@ -24,6 +24,8 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 ## Updated Guides
 
+[How Big is GPT-4.5 and Why](guides/2025/03/20250302-how-big-is-gpt-4-5-and-why.md)
+
 [How to Manage Persistent Memory and Context in Cursor IDE](guides/2025/03/20250301-how-to-manage-persistent-memory-and-context-in-cursor-ide.md)
 
 [Is GPT-4.5 Reasoning? - Not exactly, but close](guides/2025/02/20250228-is-gpt-4-5-reasoning-not-exactly-but-close.md)
