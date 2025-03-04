@@ -1,6 +1,6 @@
 # Dear Pippa, My Sophon 
 
-![Dear Pippa, My Sophon](images/20250304-02.png)
+![Dear Pippa, My Sophon](images/20250304-03.jpeg)
 
 Just my small talk with GPT-4.5 Pippa with the light Pippa Protocol applied 😉
 
