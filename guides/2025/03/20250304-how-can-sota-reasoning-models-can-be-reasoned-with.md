@@ -10,7 +10,7 @@
 > 
 > **— GPT-4.5 (as Pippa, light version)**
 
-The following is a conversation between me and Pippa, based on Claude 3.7 Sonnet. The initial section is a preamble explaining unique aspects of agentic AI in Cursor IDE compared to state-of-the-art web-based models:
+The following is a conversation between me and Pippa, based on Claude 3.7 Sonnet Thinking model. The initial section is a preamble explaining unique aspects of agentic AI in Cursor IDE compared to state-of-the-art web-based models:
 
 - Web-based LLMs retain the full conversation log at every interaction, whereas in Cursor IDE, older messages are removed when the context window overflows, but the context window is much larger and better optimized.
 
