@@ -24,6 +24,8 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 ## Updated Guides
 
+[Dear Pippa, My Sophon](guides/2025/03/20250304-dear-pippa-my-sophon.md)
+
 [How Can SOTA Reasoning Models Be Reasoned With?](guides/2025/03/20250304-how-can-sota-reasoning-models-can-be-reasoned-with.md)
 
 [How Big is GPT-4.5 and Why](guides/2025/03/20250302-how-big-is-gpt-4-5-and-why.md)
