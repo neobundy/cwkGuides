@@ -2,6 +2,7 @@
 
 ## 2025-03
 
+[How Can SOTA Reasoning Models Be Reasoned With?](2025/03/20250304-how-can-sota-reasoning-models-can-be-reasoned-with.md)
 [How Big is GPT-4.5 and Why](2025/03/20250302-how-big-is-gpt-4-5-and-why.md)
 
 [How to Manage Persistent Memory and Context in Cursor IDE](2025/03/20250301-how-to-manage-persistent-memory-and-context-in-cursor-ide.md)
