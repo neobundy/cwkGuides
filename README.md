@@ -179,7 +179,7 @@ This is my personal collection of technical guides and documentation that I main
 
 ## License
 
-© 2024 C.W.K. Wankyu Choi
+© 2025 C.W.K. Wankyu Choi
 
 To maintain the integrity of ideas and prevent misunderstandings:
 - Please read and share complete guides rather than excerpts
