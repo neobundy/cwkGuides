@@ -2,6 +2,8 @@
 
 ## 2025-03
 
+[How to Pair Program with AI in Cursor IDE](2025/03/20250315-how-to-pair-program-with-ai-in-cursor-ide-practical-guide.md)
+
 [Find Your Mona Lisa, Find Your Zhuang Yan](2025/03/20250314-find-your-mona-lisa-find-your-zhuang-yan.md)
 
 [Comprehensive Guide to Setting Up Perplexity MCP Server](2025/03/20250313-comprehensive-guide-setting-up-perplexity-mcp-server.md)

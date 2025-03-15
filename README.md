@@ -24,6 +24,8 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 ## Updated Guides
 
+[How to Pair Program with AI in Cursor IDE](guides/2025/03/20250315-how-to-pair-program-with-ai-in-cursor-ide-practical-guide.md)
+
 [Find Your Mona Lisa, Find Your Zhuang Yan](guides/2025/03/20250314-find-your-mona-lisa-find-your-zhuang-yan.md)
 
 [Comprehensive Guide to Setting Up Perplexity MCP Server](guides/2025/03/20250313-comprehensive-guide-setting-up-perplexity-mcp-server.md)
