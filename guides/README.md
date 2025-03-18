@@ -2,6 +2,8 @@
 
 ## 2025-03
 
+[The Seductive Power of AI Confidence: Navigating Technical Explanations in the Age of Large Language Models](2025/03/20250318-the-seductive-power-of-ai-confidence-navigating-technical-explanations-in-the-age-of-large-language-models.md)
+
 [C.W.K. LLM TextForge Project: The Complete Guide - Building Local LLM-Powered Text Processing with AI-Pair Programming](2025/03/20250316-c-w-k-llm-textforge-project-the-complete-guide-building-local-llm-powered-text-processing-with-ai-pair-programming.md)
 
 [How to Pair Program with AI in Cursor IDE](2025/03/20250315-how-to-pair-program-with-ai-in-cursor-ide-practical-guide.md)

@@ -24,7 +24,7 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 ## Updated Guides
 
-
+[The Seductive Power of AI Confidence: Navigating Technical Explanations in the Age of Large Language Models](guides/2025/03/20250318-the-seductive-power-of-ai-confidence-navigating-technical-explanations-in-the-age-of-large-language-models.md)
 
 [C.W.K. LLM TextForge Project: The Complete Guide - Building Local LLM-Powered Text Processing with AI-Pair Programming](guides/2025/03/20250316-c-w-k-llm-textforge-project-the-complete-guide-building-local-llm-powered-text-processing-with-ai-pair-programming.md)
 
