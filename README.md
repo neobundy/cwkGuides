@@ -24,6 +24,8 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 ## Updated Guides
 
+[How to Use OpenAI's New Speech-to-Text and Text-to-Speech Models for Real-Time Voice Transcription in Python](guides/2025/03/20250321-how-to-use-openai-s-new-speech-to-text-and-text-to-speech-models-for-real-time-voice-transcription-in-python.md)
+
 [The Seductive Power of AI Confidence: Navigating Technical Explanations in the Age of Large Language Models](guides/2025/03/20250318-the-seductive-power-of-ai-confidence-navigating-technical-explanations-in-the-age-of-large-language-models.md)
 
 [C.W.K. LLM TextForge Project: The Complete Guide - Building Local LLM-Powered Text Processing with AI-Pair Programming](guides/2025/03/20250316-c-w-k-llm-textforge-project-the-complete-guide-building-local-llm-powered-text-processing-with-ai-pair-programming.md)
