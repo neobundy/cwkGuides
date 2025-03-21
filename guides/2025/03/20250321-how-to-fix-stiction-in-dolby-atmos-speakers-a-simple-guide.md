@@ -1,6 +1,6 @@
 # How to Fix Stiction in Dolby Atmos Speakers: A Simple Guide
 
-![Stiction stinks](images/20250321-02.png)
+![Stiction sucks](images/20250321-02.png)
 
 Stiction can sneak up on your Dolby Atmos setup, muting speakers and dulling your home theater experience. If you’re a home theater enthusiast, here’s a quick check: run your receiver’s test tone sequence to evaluate each speaker. You might notice some aren’t sounding right. Before suspecting faulty cables or broken drivers, consider stiction—a common issue where a speaker’s voice coil lightly adheres to its magnet after extended inactivity. Let’s break down what stiction is, why it occurs, and how to fix it.
 
