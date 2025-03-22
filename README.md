@@ -24,6 +24,8 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 ## Updated Guides
 
+[The Mental Pollution Paradox: When Your Mind’s Ecosystem Collapses](guides/2025/03/20250322-the-mental-pollution-paradox-when-your-mind-s-ecosystem-collapses.md)
+
 [How to Fix Stiction in Dolby Atmos Speakers: A Simple Guide](guides/2025/03/20250321-how-to-fix-stiction-in-dolby-atmos-speakers-a-simple-guide.md)
 
 [How to Use OpenAI's New Speech-to-Text and Text-to-Speech Models for Real-Time Voice Transcription in Python](guides/2025/03/20250321-how-to-use-openai-s-new-speech-to-text-and-text-to-speech-models-for-real-time-voice-transcription-in-python.md)
