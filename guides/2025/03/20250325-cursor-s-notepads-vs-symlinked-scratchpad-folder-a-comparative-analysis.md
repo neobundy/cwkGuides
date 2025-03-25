@@ -1,6 +1,6 @@
 # Cursor's Notepads vs. Symlinked Scratchpad Folder: A Comparative Analysis
 
-![Notepads vs. Symlinked Scratchpad Folder](images/20250325-01.png)
+![Notepads vs. Symlinked Scratchpad Folder](images/20250325-02.png)
 
 After extensive comparison between Cursor's built-in Notepads and a symlink-based scratchpad folder, the latter consistently offers superior versatility, particularly for power users.
 
