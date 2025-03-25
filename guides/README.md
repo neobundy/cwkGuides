@@ -2,6 +2,8 @@
 
 ## 2025-03
 
+[Cursor's Notepads vs. Symlinked Scratchpad Folder: A Comparative Analysis](2025/03/20250325-cursor-s-notepads-vs-symlinked-scratchpad-folder-a-comparative-analysis.md)
+
 [The Mental Pollution Paradox: When Your Mind’s Ecosystem Collapses](2025/03/20250322-the-mental-pollution-paradox-when-your-mind-s-ecosystem-collapses.md)
 
 [How to Fix Stiction in Dolby Atmos Speakers: A Simple Guide](2025/03/20250321-how-to-fix-stiction-in-dolby-atmos-speakers-a-simple-guide.md)

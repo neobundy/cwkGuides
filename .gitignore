@@ -60,6 +60,7 @@ venv.bak/
 **/scratchpad.*
 **/maintenance/
 **/protocol/
+*scratchpad*
 
 # Protocol directory (including symlinks)
 protocol
