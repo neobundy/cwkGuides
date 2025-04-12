@@ -24,6 +24,14 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 ## Updated Guides
 
+[Long-Term Vision Investing 101: Revisiting the Fundamentals](guides/2025/04/20250412-long-term-vision-investing-101.md)
+
+[The Pattern Behind the Pain](guides/2025/04/20250410-the-pattern-behind-the-pain.md)
+
+[Reality Check - For the Thousandth Time](guides/2025/04/20250408-reality-check-for-the-thousandth-time.md)
+
+[Leave the Casino: Survivor's Manifesto](guides/2025/04/20250408-leave-the-casino-survivor-s-manifesto.md)
+
 [Cursor's Notepads vs. Symlinked Scratchpad Folder: A Comparative Analysis](guides/2025/03/20250325-cursor-s-notepads-vs-symlinked-scratchpad-folder-a-comparative-analysis.md)
 
 [The Mental Pollution Paradox: When Your Mind’s Ecosystem Collapses](guides/2025/03/20250322-the-mental-pollution-paradox-when-your-mind-s-ecosystem-collapses.md)

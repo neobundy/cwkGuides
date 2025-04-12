@@ -1,5 +1,15 @@
 # C.W.K.Guides
 
+## 2025-04
+
+[Long-Term Vision Investing 101: Revisiting the Fundamentals](2025/04/20250412-long-term-vision-investing-101.md)
+
+[The Pattern Behind the Pain](2025/04/20250410-the-pattern-behind-the-pain.md)
+
+[Reality Check - For the Thousandth Time](2025/04/20250408-reality-check-for-the-thousandth-time.md)
+
+[Leave the Casino: Survivor's Manifesto](2025/04/20250408-leave-the-casino-survivor-s-manifesto.md)
+
 ## 2025-03
 
 [Cursor's Notepads vs. Symlinked Scratchpad Folder: A Comparative Analysis](2025/03/20250325-cursor-s-notepads-vs-symlinked-scratchpad-folder-a-comparative-analysis.md)
