@@ -86,10 +86,13 @@ Yeah… good luck with that, bruh.
 ---
 
 Reality Check - For the Thousandth Time
+
 https://github.com/neobundy/cwkGuides/blob/main/guides/2025/04/20250408-reality-check-for-the-thousandth-time.md
 
 Leave the Casino: Survivor's Manifesto
+
 https://github.com/neobundy/cwkGuides/blob/main/guides/2025/04/20250408-leave-the-casino-survivor-s-manifesto.md
 
 The Pattern Behind the Pain
+
 https://github.com/neobundy/cwkGuides/blob/main/guides/2025/04/20250410-the-pattern-behind-the-pain.md
