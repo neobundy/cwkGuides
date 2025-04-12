@@ -1,5 +1,7 @@
 # Long-Term Vision Investing 101: Revisiting the Fundamentals
 
+![Long-Term Vision Investing](images/20250412-01.png)
+
 There's a good reason I stopped cyclical market plays. Sure, they can be profitable—but only if your timing is near-perfect. This means you must predict exactly when economic cycles will begin and end.
 
 Timing cycles is nearly impossible. Perhaps not entirely impossible, but why would any rational investor accept such a risk when countless more predictable opportunities exist?
@@ -83,3 +85,11 @@ Yeah… good luck with that, bruh.
 
 ---
 
+Reality Check - For the Thousandth Time
+https://github.com/neobundy/cwkGuides/blob/main/guides/2025/04/20250408-reality-check-for-the-thousandth-time.md
+
+Leave the Casino: Survivor's Manifesto
+https://github.com/neobundy/cwkGuides/blob/main/guides/2025/04/20250408-leave-the-casino-survivor-s-manifesto.md
+
+The Pattern Behind the Pain
+https://github.com/neobundy/cwkGuides/blob/main/guides/2025/04/20250410-the-pattern-behind-the-pain.md
