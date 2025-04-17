@@ -2,6 +2,8 @@
 
 ## 2025-04
 
+[What Makes a Market Survivor—or Thriver?](2025/04/20250418-what-makes-a-market-survivor-or-thriver.md)
+
 [Long-Term Vision Investing 101: Revisiting the Fundamentals](2025/04/20250412-long-term-vision-investing-101.md)
 
 [The Pattern Behind the Pain](2025/04/20250410-the-pattern-behind-the-pain.md)

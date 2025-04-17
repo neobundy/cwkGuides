@@ -24,6 +24,8 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 ## Updated Guides
 
+[What Makes a Market Survivor—or Thriver?](guides/2025/04/20250418-what-makes-a-market-survivor-or-thriver.md)
+
 [Long-Term Vision Investing 101: Revisiting the Fundamentals](guides/2025/04/20250412-long-term-vision-investing-101.md)
 
 [The Pattern Behind the Pain](guides/2025/04/20250410-the-pattern-behind-the-pain.md)
