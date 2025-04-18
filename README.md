@@ -24,7 +24,7 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 ## Updated Guides
 
-[o3 Is the Best Model I've Used—Personal Impression](guides/2025/04/20250418-o3-is-the-best-model-ive-used-personal-impression.md)
+[o3 Is the Best Model I've Used—Personal Impression](guides/2025/04/20250418-o3-is-the-best-model-i-ve-used-personal-impression.md)
 
 [What Makes a Market Survivor—or Thriver?](guides/2025/04/20250418-what-makes-a-market-survivor-or-thriver.md)
 
