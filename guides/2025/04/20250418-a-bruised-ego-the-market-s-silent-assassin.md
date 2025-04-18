@@ -37,3 +37,29 @@ Good news? Your inner monologue is private turf—be ruthlessly candid. Lock you
 
 And yes, this goes far beyond investing—it’s a life policy. Got it?
 
+---
+
+I like the metaphor—turning “growth capacity” into a simple number flip nails the point. A quick polish to tighten the flow and sharpen the contrast:
+
+---
+
+**P.S. A quick numbers hack**
+
+Simple math can silence ego faster than any pep‑talk. Grab two numbers:
+
+- **0.1**  
+- **99**
+
+If it’s a competition, you’d boast about the 99.  
+But this isn’t a contest; it’s a measure of **growth potential**.
+
+Flip the frame:
+
+- **99.9** (room to improve)  
+- **1**   (room to improve)
+
+Suddenly 99.9 is the prize. The smaller your knowledge score, the bigger the runway.  
+
+Admitting ignorance is just that—expanding your runway.  
+
+Simple math, persuasive mind‑reset.
