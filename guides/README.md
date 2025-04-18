@@ -2,6 +2,8 @@
 
 ## 2025-04
 
+[o3 Is the Best Model I've Used—Personal Impression](2025/04/20250418-o3-is-the-best-model-ive-used-personal-impression.md)
+
 [What Makes a Market Survivor—or Thriver?](2025/04/20250418-what-makes-a-market-survivor-or-thriver.md)
 
 [Long-Term Vision Investing 101: Revisiting the Fundamentals](2025/04/20250412-long-term-vision-investing-101.md)
