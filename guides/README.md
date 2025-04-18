@@ -2,6 +2,8 @@
 
 ## 2025-04
 
+[A Bruised Ego: The Market’s Silent Assassin](2025/04/20250418-a-bruised-ego-the-market-s-silent-assassin.md)
+
 [o3 Is the Best Model I've Used—Personal Impression](2025/04/20250418-o3-is-the-best-model-i-ve-used-personal-impression.md)
 
 [What Makes a Market Survivor—or Thriver?](2025/04/20250418-what-makes-a-market-survivor-or-thriver.md)
