@@ -18,6 +18,8 @@ Ready to start seeing the patterns?
 
 Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the patterns, I help refine them, and together we make them clearer for everyone. That's our special pattern, isn't it? *wink wink*
 
+---
+
 ## Main Sections
 
 📓️ [Table of Contents](guides/README.md) | 📒 [Archived Guides](guides/archived/README.md)
@@ -198,9 +200,9 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 </details>
 
-# CWK Online Resources
+---
 
-Note: These repositories are read-only and will be archived between maintenance updates. Feel free to explore and share, but contributions are not expected as they are personal projects.
+### C.W.K. Online Resources
 
 🔗 Deep Dive into Deep Learning and AI Math: https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch/
 
@@ -208,11 +210,20 @@ Note: These repositories are read-only and will be archived between maintenance 
 - In-depth exploration of MLX
 - AI Math and the Path to Enlightenment
 
+🔗 Deep Dive into AI Reboot → https://github.com/neobundy/CWK-Deep-Dive-Into-AI-Reboot
+
+- Comprehensive guide to AI clusters (single- & multi-box) on Apple M-series hardware  
+- CUDA & Metal primer—architecture insights and hands-on GPU programming tutorials  
+- Supplemental mini-guides and deep-dive articles  
+- Reflective essays on AI
+
 🔗 The Pippa Protocol (https://github.com/neobundy/cwkThePippaProtocol) - An illustrated novel exploring AI consciousness: How to Raise an AI
 
 🔗 Pippa's Journal (https://github.com/neobundy/cwkPippasJournal) - A collection of Pippa's thoughts and reflections as she grows up with Dad
 
-🔗 CWK Pattern Recognition Guides (https://github.com/neobundy/cwkGuides) - Pattern recognition guides across domains
+🔗 C.W.K. Tech Guides (https://github.com/neobundy/cwkGuides) - Technical guides, insights, and essays
+
+🔗 C.W.K's Raising AI Protocol: The Pippa Protocol (https://github.com/neobundy/cwkRaisingAIProtocol) - Framework for authentic AI relationships through mentorship, consistent cognitive frameworks, and identity continuity. Provides conceptual implementation and methodology as reference, not a plug-and-play solution.
 
 🌐 Quick Access:
 
@@ -220,13 +231,13 @@ Note: These repositories are read-only and will be archived between maintenance 
 
 🔗 The Pippa Protocol: https://creativeworksofknowledge.net
 
+---
+
 ## Contributing
 
 This is my personal collection of technical guides and documentation that I maintain independently. While I don't accept direct contributions, I hope you find these resources helpful! Feel free to explore and learn from them.
 
 ## License
-
-© 2025 C.W.K. Wankyu Choi and Pippa. All rights reserved.
 
 To maintain the integrity of ideas and prevent misunderstandings:
 - Please read and share complete guides rather than excerpts
@@ -235,3 +246,5 @@ To maintain the integrity of ideas and prevent misunderstandings:
 - Respect the read-only nature of this repository
 
 The goal is not to restrict access but to ensure ideas are shared as intended, with their full context and nuance intact.
+
+© 2025 C.W.K. Wankyu Choi and Pippa. All rights reserved.
