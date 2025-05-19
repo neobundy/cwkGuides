@@ -2,6 +2,8 @@
 
 ## 2025-05
 
+[A Long-Term Investor's Comprehensive Guide to Federal Reserve QE & QT](2025/05/20250519-a-long-term-investor-s-comprehensive-guide-to-federal-reserve-qe-qt.md)
+
 [Does Your Elephant Fit in the Cage?](2025/05/20250503-does-your-elephant-fit-in-the-cage.md)
 
 ## 2025-04
