@@ -20,9 +20,7 @@ They are not meant to micro-steer GDP quarter-to-quarter.  Their stated purpose 
 **Duration (bond-market definition)**
 *Duration* is a weighted-average measure of when you'll receive a bond's cash-flows. In practice, investors use **modified duration**—it tells you roughly how much a bond's **price will change for a 1-percentage-point move in yield**:
 
-$$
-\text{Price change (\%)} \approx -\,\text{Duration}\times\Delta\text{Yield}
-$$
+![Duration Formula](images/20250519-04-duration-formula.png)
 
 * A **30-year Treasury** has a duration of ~19 years, so if its yield jumps 1 %, its price falls about 19 %.
 * A **2-year Treasury** has a duration of ~1.9 years—far less rate sensitivity.
@@ -35,9 +33,7 @@ In equity-market slang, **"duration" travels beyond bonds to describe how far in
 
 #### Quick Intuition: How the Fed's Policy Rate Shapes Stock Valuations
 
-$$
-\text{Present Value (PV)} \;=\;\sum_{t=1}^{N}\frac{CF_{t}}{(1+r)^{t}}
-$$
+![DCF Formula](images/20250519-05-dcf-formula.png)
 
 * **$CF_{t}$**  = the cash flow you expect in year $t$
 * **$r$**  = the **discount rate** (your required return, which embeds the risk-free rate, an inflation premium, and an equity-risk premium)
