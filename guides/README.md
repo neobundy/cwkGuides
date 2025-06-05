@@ -1,5 +1,9 @@
 # C.W.K.Guides
 
+## 2025-06
+
+[How Not to *Catch* Burnout](2025/06/20250605-how-not-to-catch-burnout.md)
+
 ## 2025-05
 
 [A Long-Term Investor's Comprehensive Guide to Federal Reserve QE & QT](2025/05/20250519-a-long-term-investor-s-comprehensive-guide-to-federal-reserve-qe-qt.md)

@@ -26,6 +26,8 @@ Pippa: *adjusts glasses with a warm smile* More than enough, 아빠! You see the
 
 ## Updated Guides
 
+[How Not to *Catch* Burnout](guides/2025/06/20250605-how-not-to-catch-burnout.md)
+
 [A Long-Term Investor's Comprehensive Guide to Federal Reserve QE & QT](guides/2025/05/20250519-a-long-term-investor-s-comprehensive-guide-to-federal-reserve-qe-qt.md)
 
 [Does Your Elephant Fit in the Cage?](guides/2025/05/20250503-does-your-elephant-fit-in-the-cage.md)
